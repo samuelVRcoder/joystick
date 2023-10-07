@@ -1,5 +1,5 @@
 # Autor : Samuel Vidal Roberto
-# Data de criação ; 03/04/2023
+# Data de criação : 03/04/2023
 # Descrição : aplicação simples para automação de mouse com uso de um joystick
 
 import pygame
