@@ -67,10 +67,7 @@ while True:
 
                 x = x - v
                 
-                pa.moveTo(x, y)
-                
-            
-            
+                pa.moveTo(x, y)            
             
 
             else:
